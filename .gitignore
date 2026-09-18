@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.venv/
+.workbuddy/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+backups/
+dist/
+dist.noindex/
+macos/AgentNexusMemory/.build/
+*.py[cod]
+*.log
+.qdrant-initialized
+data/*
+!data/.gitkeep
